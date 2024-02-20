@@ -14,4 +14,4 @@ the [notebook](https://colab.research.google.com/github/emmaashraf/Technical-Dis
 
 
 ## images
-(https://github.com/emmaashraf/Technical-Discussions/issues/1#issue-2145465258)
+![image](https://github.com/emmaashraf/Technical-Discussions/assets/115770300/df0098df-fe1b-4cd0-ab05-9444165f01d9)
